@@ -19,7 +19,7 @@
     "redux-thunk": "^2.3.0",
     "swagger-client": "^3.8.25",
     "swagger-editor": "^3.6.29",
-    "swagger-ui-react": "^3.22.2"
+    "swagger-ui-react": "^4.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
